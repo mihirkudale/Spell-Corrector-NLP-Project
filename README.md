@@ -1,4 +1,4 @@
-# NLP-Project-Spell-Corrector
+# Spell-Corrector
 
 **PROBLEM STAEMENT**
 
