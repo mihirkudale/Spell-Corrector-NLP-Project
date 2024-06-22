@@ -1,4 +1,4 @@
-# Spell-Corrector
+# Spell-Corrector-NLP-Project
 
 **PROBLEM STAEMENT**
 
